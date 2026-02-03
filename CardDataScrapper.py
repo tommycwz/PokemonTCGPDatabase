@@ -9,7 +9,7 @@ from dataclasses import dataclass, asdict
 # App Settings
 OVERRIDE_EXISTING_DATA = False
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(BASE_DIR, "test")
+DATA_DIR = os.path.join(BASE_DIR, "release")
 EXPORT_CARD_PATH = os.path.join(DATA_DIR, "cards.json")
 MISSING_DATA_CARD_PATH = os.path.join(DATA_DIR, "missing_data.json")
 POCKETDB_CARD_URL = "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/dist/cards.json"

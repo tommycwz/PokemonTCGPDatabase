@@ -11,7 +11,7 @@ CARD_URL_TEMPLATE = BASE_URL + "/cards/{set_code}/{number}"
 
 # Align with CardDataScrapper layout for missing ids
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(BASE_DIR, "test")
+DATA_DIR = os.path.join(BASE_DIR, "release")
 MISSING_DATA_CARD_PATH = os.path.join(DATA_DIR, "missing_data.json")
 
 
