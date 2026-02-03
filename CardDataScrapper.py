@@ -7,7 +7,7 @@ from typing import List, Dict, Any, Set
 from dataclasses import dataclass, asdict
 
 # App Settings
-OVERRIDE_EXISTING_DATA = False
+OVERRIDE_EXISTING_DATA = True
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "release")
 EXPORT_CARD_PATH = os.path.join(DATA_DIR, "cards.json")
@@ -51,7 +51,15 @@ class PokemonCard:
         if set_code.startswith("PROMO-"):
             set_code = set_code.replace("PROMO-", "P-")
 
-        series = set_code[:1] if set_code else ""
+        # Uppercase set code for consistency (e.g., a1 -> A1, p-a -> P-A)
+        set_code = set_code.upper()
+
+        # Series: if set like "P-A" use the segment after '-', else first char
+        if set_code and "-" in set_code:
+            seg = set_code.split("-")[-1]
+            series = seg[:1] if seg else ""
+        else:
+            series = set_code[:1] if set_code else ""
         id_val = f"{set_code}-{num_pad}"
 
         name = str(obj.get("name", "")).strip()
@@ -118,7 +126,7 @@ def fetch_pocketdb_card_extras(url: str = POCKETDB_CARD_EXTRA_URL) -> List[Dict[
 def build_extras_lookup(extras: List[Dict[str, Any]]) -> Dict[str, Dict[str, Any]]:
     lookup: Dict[str, Dict[str, Any]] = {}
     for e in extras:
-        set_code = str(e.get("set", "")).strip()
+        set_code = str(e.get("set", "")).strip().upper()
         number_raw = e.get("number", 0)
         try:
             number_int = int(number_raw)
@@ -191,10 +199,10 @@ def load_existing_cards(path: str) -> Dict[str, Dict[str, Any]]:
                 if not cid:
                     continue
                 # Normalize promotional IDs and set codes in existing data
-                norm_id = cid.replace("PROMO-", "P-")
+                norm_id = cid.replace("PROMO-", "P-").upper()
                 set_code = str(item.get("set", ""))
                 if set_code:
-                    item["set"] = set_code.replace("PROMO-", "P-")
+                    item["set"] = set_code.replace("PROMO-", "P-").upper()
                 # Update the id field if normalization changed it
                 if norm_id != cid:
                     item["id"] = norm_id
@@ -254,7 +262,7 @@ def main():
         if not str(c.type).strip():
             if c.id:
                 # Normalize promotional IDs: replace 'PROMO-' with 'P-'
-                normalized_id = c.id.replace("PROMO-", "P-")
+                normalized_id = c.id.replace("PROMO-", "P-").upper()
                 missing_now.add(normalized_id)
     if missing_now:
         existing_missing = load_missing_ids(MISSING_DATA_CARD_PATH)
