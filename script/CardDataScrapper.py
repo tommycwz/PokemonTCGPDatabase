@@ -7,16 +7,17 @@ from typing import List, Dict, Any, Set
 from dataclasses import dataclass, asdict
 
 # App Settings
-OVERRIDE_EXISTING_DATA = True
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+OVERRIDE_EXISTING_DATA = False
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "release")
+MISC_DATA_DIR = os.path.join(BASE_DIR, "misc")
 EXPORT_CARD_PATH = os.path.join(DATA_DIR, "cards.json")
-MISSING_DATA_CARD_PATH = os.path.join(DATA_DIR, "missing_data.json")
+MISSING_DATA_CARD_PATH = os.path.join(MISC_DATA_DIR, "missing_data.json")
 POCKETDB_CARD_URL = "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/dist/cards.json"
 POCKETDB_CARD_EXTRA_URL = "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/dist/cards.extra.json"
 POCKETDB_IMAGE_URL = "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/"
 TCGDEX_CARD_URL = "https://api.tcgdex.net/v2/en/sets/{SET_CODE}"
-FOILED_CARDS_PATH = os.path.join(BASE_DIR, "FoiledCards.txt")
+FOILED_CARDS_PATH = os.path.join(MISC_DATA_DIR, "FoiledCards.txt")
 
 
 @dataclass

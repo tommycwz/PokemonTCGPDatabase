@@ -9,10 +9,11 @@ BASE_URL = "https://pocket.limitlesstcg.com"
 LIST_URL_TEMPLATE = BASE_URL + "/cards/{set_code}"
 CARD_URL_TEMPLATE = BASE_URL + "/cards/{set_code}/{number}"
 
-# Align with CardDataScrapper layout for missing ids
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(BASE_DIR, "release")
-MISSING_DATA_CARD_PATH = os.path.join(DATA_DIR, "missing_data.json")
+# Align with CardDataScrapper layout: missing ids in misc, cards in release
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+MISC_DIR = os.path.join(BASE_DIR, "misc")
+RELEASE_DIR = os.path.join(BASE_DIR, "release")
+MISSING_DATA_CARD_PATH = os.path.join(MISC_DIR, "missing_data.json")
 
 
 def scrape_card_links(set_code: str) -> list[str]:
@@ -161,8 +162,8 @@ if __name__ == "__main__":
                 updates[cid] = {"type": main_type}
                 print(f"[{idx}/{total}] {cid}: {main_type}")
 
-        # Load cards.json
-        cards_path = os.path.join(DATA_DIR, "cards.json")
+        # Load cards.json from release folder
+        cards_path = os.path.join(RELEASE_DIR, "cards.json")
         try:
             with open(cards_path, "r", encoding="utf-8") as f:
                 cards = json.load(f)
@@ -213,6 +214,7 @@ if __name__ == "__main__":
             print(f"Failed to update missing_data.json: {e}")
     else:
         # Fallback demo: scrape set list URLs
+        print("ERROR: missing_data.json not found or empty.")
         set_code = "B2"
         urls = scrape_card_links(set_code)
         print(urls)
