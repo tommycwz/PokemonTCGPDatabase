@@ -3,7 +3,6 @@ import sys
 import time
 import subprocess
 
-
 def run_script(script_rel_path: str) -> int:
 	project_root = os.path.dirname(os.path.abspath(__file__))
 	script_path = os.path.join(project_root, script_rel_path)
@@ -22,14 +21,14 @@ def main():
 		os.path.join("script", "SetDataScrapper.py"),
 		os.path.join("script", "CardDataScrapper.py"),
 		os.path.join("script", "LimitlessScrapper.py"),
-		os.path.join("script", "SyncPreperation.py"),
+		os.path.join("script", "SyncGenerator.py"),
 	]
 
 	for idx, rel in enumerate(scripts, start=1):
 		rc = run_script(rel)
 		if idx < len(scripts):
 			time.sleep(3)
-
+	
 	print("\nAll done.")
 
 

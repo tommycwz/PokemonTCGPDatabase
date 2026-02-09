@@ -177,8 +177,13 @@ def main():
 		print(f"Regex fallback extracted {len(pairs)} pairs; mapping now has {len(mapping)} items.")
 
 	release_dir.mkdir(parents=True, exist_ok=True)
+
+	# Sort output by mapped value (e.g., set-code then number)
+	ordered_items = sorted(mapping.items(), key=lambda kv: kv[1])
+	ordered_mapping = {k: v for k, v in ordered_items}
+
 	with sync_path.open("w", encoding="utf-8") as f:
-		json.dump(mapping, f, ensure_ascii=False, indent=2, sort_keys=True)
+		json.dump(ordered_mapping, f, ensure_ascii=False, indent=2)
 
 	print(f"Generated sync mapping for {len(mapping)} items at {sync_path}")
 

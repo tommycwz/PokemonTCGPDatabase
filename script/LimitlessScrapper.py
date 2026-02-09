@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import unicodedata
+import re
 
 BASE_URL = "https://pocket.limitlesstcg.com"
 LIST_URL_TEMPLATE = BASE_URL + "/cards/{set_code}"
@@ -69,7 +70,8 @@ def fetch_card_type_info(set_code: str, number: int) -> tuple[str, str | None, s
     raw = p.get_text(" ", strip=True)
     if not raw:
         return None
-    parts = [seg.strip() for seg in raw.split("-") if seg.strip()]
+    # Split type line on hyphen surrounded by spaces to avoid splitting names like "Ho-Oh"
+    parts = [seg.strip() for seg in re.split(r"\s+-\s+", raw) if seg.strip()]
     if not parts:
         return None
     main_type = _normalize_label(parts[0])
@@ -86,10 +88,11 @@ def fetch_card_type_info(set_code: str, number: int) -> tuple[str, str | None, s
             tp = soup.select_one("p.card-text-title")
         if tp:
             title_txt = tp.get_text(" ", strip=True)
-            tparts = [seg.strip() for seg in title_txt.split("-") if seg.strip()]
-            # Expect [Name, Element, 'XX HP']
+            # Split on " - " to preserve internal hyphens in names (e.g., Ho-Oh ex)
+            tparts = [seg.strip() for seg in re.split(r"\s+-\s+", title_txt) if seg.strip()]
+            # Expect [..., Element, 'XX HP'] — take the penultimate segment as element
             if len(tparts) >= 2:
-                element = _normalize_label(tparts[1])
+                element = _normalize_label(tparts[-2])
     return (main_type, subtype, element)
 
 
