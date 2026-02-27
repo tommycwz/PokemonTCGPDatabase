@@ -184,6 +184,17 @@
         ]
     },
     {
+        "code": "B2A",
+        "name": "Paldean Wonders",
+        "shortName": "PW",
+        "series": "B",
+        "count": 131,
+        "releaseDate": "2026-02-26",
+        "packs": [
+            "Paldean"
+        ]
+    },
+    {
         "code": "P-B",
         "name": "Promo B",
         "shortName": "PB",

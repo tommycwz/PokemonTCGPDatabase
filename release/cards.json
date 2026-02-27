@@ -39713,6 +39713,1971 @@
     "isFoil": false
   },
   {
+    "series": "B",
+    "set": "B2A",
+    "number": 1,
+    "id": "B2A-001",
+    "name": "Sprigatito",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/1.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 2,
+    "id": "B2A-002",
+    "name": "Floragato",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/2.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 3,
+    "id": "B2A-003",
+    "name": "Meowscarada ex",
+    "rarity": "RR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/3.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 4,
+    "id": "B2A-004",
+    "name": "Tarountula",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/4.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 5,
+    "id": "B2A-005",
+    "name": "Spidops",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/5.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 6,
+    "id": "B2A-006",
+    "name": "Nymble",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/6.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 7,
+    "id": "B2A-007",
+    "name": "Smoliv",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/7.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 8,
+    "id": "B2A-008",
+    "name": "Dolliv",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/8.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 9,
+    "id": "B2A-009",
+    "name": "Arboliva",
+    "rarity": "R",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/9.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 10,
+    "id": "B2A-010",
+    "name": "Bramblin",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/10.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 11,
+    "id": "B2A-011",
+    "name": "Brambleghast",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/11.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 12,
+    "id": "B2A-012",
+    "name": "Capsakid",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/12.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 13,
+    "id": "B2A-013",
+    "name": "Scovillain",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/13.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 14,
+    "id": "B2A-014",
+    "name": "Rellor",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/14.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 15,
+    "id": "B2A-015",
+    "name": "Wo-Chien",
+    "rarity": "R",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/15.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 16,
+    "id": "B2A-016",
+    "name": "Fuecoco",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/16.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fire",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 17,
+    "id": "B2A-017",
+    "name": "Crocalor",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/17.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fire",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 18,
+    "id": "B2A-018",
+    "name": "Skeledirge",
+    "rarity": "R",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/18.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fire",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 19,
+    "id": "B2A-019",
+    "name": "Charcadet",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/19.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fire",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 20,
+    "id": "B2A-020",
+    "name": "Armarouge ex",
+    "rarity": "RR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/20.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fire",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 21,
+    "id": "B2A-021",
+    "name": "Chi-Yu",
+    "rarity": "R",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/21.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fire",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 22,
+    "id": "B2A-022",
+    "name": "Quaxly",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/22.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 23,
+    "id": "B2A-023",
+    "name": "Quaxwell",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/23.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 24,
+    "id": "B2A-024",
+    "name": "Quaquaval",
+    "rarity": "R",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/24.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 25,
+    "id": "B2A-025",
+    "name": "Wiglett",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/25.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 26,
+    "id": "B2A-026",
+    "name": "Wugtrio",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/26.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 27,
+    "id": "B2A-027",
+    "name": "Finizen",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/27.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 28,
+    "id": "B2A-028",
+    "name": "Palafin",
+    "rarity": "R",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/28.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 29,
+    "id": "B2A-029",
+    "name": "Cetoddle",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/29.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 30,
+    "id": "B2A-030",
+    "name": "Cetitan",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/30.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 31,
+    "id": "B2A-031",
+    "name": "Veluza",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/31.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 32,
+    "id": "B2A-032",
+    "name": "Dondozo",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/32.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 33,
+    "id": "B2A-033",
+    "name": "Tatsugiri",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/33.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 34,
+    "id": "B2A-034",
+    "name": "Frigibax",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/34.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 35,
+    "id": "B2A-035",
+    "name": "Arctibax",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/35.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 36,
+    "id": "B2A-036",
+    "name": "Baxcalibur",
+    "rarity": "R",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/36.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 37,
+    "id": "B2A-037",
+    "name": "Chien-Pao ex",
+    "rarity": "RR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/37.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 38,
+    "id": "B2A-038",
+    "name": "Pawmi",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/38.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "lightning",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 39,
+    "id": "B2A-039",
+    "name": "Pawmo",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/39.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "lightning",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 40,
+    "id": "B2A-040",
+    "name": "Pawmot",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/40.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "lightning",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 41,
+    "id": "B2A-041",
+    "name": "Tadbulb",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/41.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "lightning",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 42,
+    "id": "B2A-042",
+    "name": "Bellibolt ex",
+    "rarity": "RR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/42.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "lightning",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 43,
+    "id": "B2A-043",
+    "name": "Wattrel",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/43.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "lightning",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 44,
+    "id": "B2A-044",
+    "name": "Kilowattrel",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/44.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "lightning",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 45,
+    "id": "B2A-045",
+    "name": "Miraidon",
+    "rarity": "R",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/45.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "lightning",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 46,
+    "id": "B2A-046",
+    "name": "Fidough",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/46.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "psychic",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 47,
+    "id": "B2A-047",
+    "name": "Dachsbun",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/47.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "psychic",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 48,
+    "id": "B2A-048",
+    "name": "Ceruledge",
+    "rarity": "R",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/48.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "psychic",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 49,
+    "id": "B2A-049",
+    "name": "Rabsca",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/49.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "psychic",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 50,
+    "id": "B2A-050",
+    "name": "Flittle",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/50.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "psychic",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 51,
+    "id": "B2A-051",
+    "name": "Espathra",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/51.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "psychic",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 52,
+    "id": "B2A-052",
+    "name": "Greavard",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/52.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "psychic",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 53,
+    "id": "B2A-053",
+    "name": "Houndstone",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/53.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "psychic",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 54,
+    "id": "B2A-054",
+    "name": "Gimmighoul",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/54.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "psychic",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 55,
+    "id": "B2A-055",
+    "name": "Mankey",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/55.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fighting",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 56,
+    "id": "B2A-056",
+    "name": "Primeape",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/56.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fighting",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 57,
+    "id": "B2A-057",
+    "name": "Annihilape",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/57.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fighting",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 58,
+    "id": "B2A-058",
+    "name": "Paldean Tauros",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/58.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fighting",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 59,
+    "id": "B2A-059",
+    "name": "Toedscool",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/59.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fighting",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 60,
+    "id": "B2A-060",
+    "name": "Toedscruel",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/60.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fighting",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 61,
+    "id": "B2A-061",
+    "name": "Klawf",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/61.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fighting",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 62,
+    "id": "B2A-062",
+    "name": "Ting-Lu",
+    "rarity": "R",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/62.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fighting",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 63,
+    "id": "B2A-063",
+    "name": "Koraidon",
+    "rarity": "R",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/63.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fighting",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 64,
+    "id": "B2A-064",
+    "name": "Paldean Wooper",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/64.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "darkness",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 65,
+    "id": "B2A-065",
+    "name": "Paldean Clodsire",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/65.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "darkness",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 66,
+    "id": "B2A-066",
+    "name": "Lokix",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/66.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "darkness",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 67,
+    "id": "B2A-067",
+    "name": "Maschiff",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/67.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "darkness",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 68,
+    "id": "B2A-068",
+    "name": "Mabosstiff",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/68.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "darkness",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 69,
+    "id": "B2A-069",
+    "name": "Shroodle",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/69.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "darkness",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 70,
+    "id": "B2A-070",
+    "name": "Grafaiai",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/70.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "darkness",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 71,
+    "id": "B2A-071",
+    "name": "Bombirdier",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/71.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "darkness",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 72,
+    "id": "B2A-072",
+    "name": "Tinkatink",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/72.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "metal",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 73,
+    "id": "B2A-073",
+    "name": "Tinkatuff",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/73.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "metal",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 74,
+    "id": "B2A-074",
+    "name": "Tinkaton",
+    "rarity": "R",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/74.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "metal",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 75,
+    "id": "B2A-075",
+    "name": "Varoom",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/75.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "metal",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 76,
+    "id": "B2A-076",
+    "name": "Revavroom",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/76.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "metal",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 77,
+    "id": "B2A-077",
+    "name": "Orthworm",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/77.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "metal",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 78,
+    "id": "B2A-078",
+    "name": "Gholdengo ex",
+    "rarity": "RR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/78.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "metal",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 79,
+    "id": "B2A-079",
+    "name": "Lechonk",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/79.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "colorless",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 80,
+    "id": "B2A-080",
+    "name": "Oinkologne",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/80.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "colorless",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 81,
+    "id": "B2A-081",
+    "name": "Tandemaus",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/81.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "colorless",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 82,
+    "id": "B2A-082",
+    "name": "Maushold",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/82.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "colorless",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 83,
+    "id": "B2A-083",
+    "name": "Squawkabilly",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/83.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "colorless",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 84,
+    "id": "B2A-084",
+    "name": "Cyclizar",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/84.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "colorless",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 85,
+    "id": "B2A-085",
+    "name": "Flamigo",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/85.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "colorless",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 86,
+    "id": "B2A-086",
+    "name": "Electric Generator",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/86.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "",
+    "type": "item",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 87,
+    "id": "B2A-087",
+    "name": "Big Air Balloon",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/87.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "",
+    "type": "tool",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 88,
+    "id": "B2A-088",
+    "name": "Team Star Grunt",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/88.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "",
+    "type": "supporter",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 89,
+    "id": "B2A-089",
+    "name": "Iono",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/89.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "",
+    "type": "supporter",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 90,
+    "id": "B2A-090",
+    "name": "Nemona",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/90.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "",
+    "type": "supporter",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 91,
+    "id": "B2A-091",
+    "name": "Arven",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/91.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "",
+    "type": "supporter",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 92,
+    "id": "B2A-092",
+    "name": "Penny",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/92.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "",
+    "type": "supporter",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 93,
+    "id": "B2A-093",
+    "name": "Mesagoza",
+    "rarity": "U",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/93.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "",
+    "type": "stadium",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 94,
+    "id": "B2A-094",
+    "name": "Fuecoco",
+    "rarity": "AR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/94.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fire",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 95,
+    "id": "B2A-095",
+    "name": "Greavard",
+    "rarity": "AR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/95.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "psychic",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 96,
+    "id": "B2A-096",
+    "name": "Gimmighoul",
+    "rarity": "AR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/96.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "psychic",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 97,
+    "id": "B2A-097",
+    "name": "Paldean Wooper",
+    "rarity": "AR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/97.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "darkness",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 98,
+    "id": "B2A-098",
+    "name": "Orthworm",
+    "rarity": "AR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/98.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "metal",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 99,
+    "id": "B2A-099",
+    "name": "Maushold",
+    "rarity": "AR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/99.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "colorless",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 100,
+    "id": "B2A-100",
+    "name": "Meowscarada ex",
+    "rarity": "SR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/100.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 101,
+    "id": "B2A-101",
+    "name": "Armarouge ex",
+    "rarity": "SR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/101.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fire",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 102,
+    "id": "B2A-102",
+    "name": "Chien-Pao ex",
+    "rarity": "SR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/102.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 103,
+    "id": "B2A-103",
+    "name": "Bellibolt ex",
+    "rarity": "SR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/103.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "lightning",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 104,
+    "id": "B2A-104",
+    "name": "Gholdengo ex",
+    "rarity": "SR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/104.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "metal",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 105,
+    "id": "B2A-105",
+    "name": "Team Star Grunt",
+    "rarity": "SR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/105.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "",
+    "type": "supporter",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 106,
+    "id": "B2A-106",
+    "name": "Iono",
+    "rarity": "SR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/106.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "",
+    "type": "supporter",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 107,
+    "id": "B2A-107",
+    "name": "Nemona",
+    "rarity": "SR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/107.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "",
+    "type": "supporter",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 108,
+    "id": "B2A-108",
+    "name": "Arven",
+    "rarity": "SR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/108.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "",
+    "type": "supporter",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 109,
+    "id": "B2A-109",
+    "name": "Penny",
+    "rarity": "SR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/109.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "",
+    "type": "supporter",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 110,
+    "id": "B2A-110",
+    "name": "Meowscarada ex",
+    "rarity": "SAR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/110.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 111,
+    "id": "B2A-111",
+    "name": "Armarouge ex",
+    "rarity": "SAR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/111.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fire",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 112,
+    "id": "B2A-112",
+    "name": "Chien-Pao ex",
+    "rarity": "SAR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/112.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 113,
+    "id": "B2A-113",
+    "name": "Bellibolt ex",
+    "rarity": "SAR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/113.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "lightning",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 114,
+    "id": "B2A-114",
+    "name": "Gholdengo ex",
+    "rarity": "SAR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/114.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "metal",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 115,
+    "id": "B2A-115",
+    "name": "Arven",
+    "rarity": "IM",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/115.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "",
+    "type": "supporter",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 116,
+    "id": "B2A-116",
+    "name": "Sprigatito",
+    "rarity": "S",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/116.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 117,
+    "id": "B2A-117",
+    "name": "Floragato",
+    "rarity": "S",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/117.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 118,
+    "id": "B2A-118",
+    "name": "Meowscarada",
+    "rarity": "S",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/118.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "grass",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 119,
+    "id": "B2A-119",
+    "name": "Pawmi",
+    "rarity": "S",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/119.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "lightning",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 120,
+    "id": "B2A-120",
+    "name": "Pawmo",
+    "rarity": "S",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/120.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "lightning",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 121,
+    "id": "B2A-121",
+    "name": "Pawmot",
+    "rarity": "S",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/121.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "lightning",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 122,
+    "id": "B2A-122",
+    "name": "Gimmighoul",
+    "rarity": "S",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/122.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "psychic",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 123,
+    "id": "B2A-123",
+    "name": "Tinkatink",
+    "rarity": "S",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/123.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "metal",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 124,
+    "id": "B2A-124",
+    "name": "Tinkatuff",
+    "rarity": "S",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/124.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "metal",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 125,
+    "id": "B2A-125",
+    "name": "Gholdengo",
+    "rarity": "S",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/125.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "metal",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 126,
+    "id": "B2A-126",
+    "name": "Entei ex",
+    "rarity": "SSR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/126.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "fire",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 127,
+    "id": "B2A-127",
+    "name": "Suicune ex",
+    "rarity": "SSR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/127.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 128,
+    "id": "B2A-128",
+    "name": "Raikou ex",
+    "rarity": "SSR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/128.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "lightning",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 129,
+    "id": "B2A-129",
+    "name": "Tinkaton ex",
+    "rarity": "SSR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/129.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "metal",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 130,
+    "id": "B2A-130",
+    "name": "Baxcalibur",
+    "rarity": "UR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/130.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "water",
+    "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "B2A",
+    "number": 131,
+    "id": "B2A-131",
+    "name": "Electric Generator",
+    "rarity": "UR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/B2a/131.webp",
+    "packs": [
+      "Paldean"
+    ],
+    "element": "",
+    "type": "item",
+    "isFoil": false
+  },
+  {
     "series": "A",
     "set": "P-A",
     "number": 1,
@@ -41821,6 +43786,120 @@
     "packs": [],
     "element": "water",
     "type": "pokemon",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "P-B",
+    "number": 33,
+    "id": "P-B-033",
+    "name": "Quaxly",
+    "rarity": "AR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/PROMO-B/33.webp",
+    "packs": [],
+    "element": "",
+    "type": "",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "P-B",
+    "number": 34,
+    "id": "P-B-034",
+    "name": "Smoliv",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/PROMO-B/34.webp",
+    "packs": [
+      "B Series Vol. 5"
+    ],
+    "element": "",
+    "type": "",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "P-B",
+    "number": 35,
+    "id": "P-B-035",
+    "name": "Charcadet",
+    "rarity": "AR",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/PROMO-B/35.webp",
+    "packs": [
+      "B Series Vol. 5"
+    ],
+    "element": "",
+    "type": "",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "P-B",
+    "number": 36,
+    "id": "P-B-036",
+    "name": "Tatsugiri",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/PROMO-B/36.webp",
+    "packs": [
+      "B Series Vol. 5"
+    ],
+    "element": "",
+    "type": "",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "P-B",
+    "number": 37,
+    "id": "P-B-037",
+    "name": "Frigibax",
+    "rarity": "C",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/PROMO-B/37.webp",
+    "packs": [
+      "B Series Vol. 5"
+    ],
+    "element": "",
+    "type": "",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "P-B",
+    "number": 38,
+    "id": "P-B-038",
+    "name": "Tinkaton",
+    "rarity": "R",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/PROMO-B/38.webp",
+    "packs": [
+      "B Series Vol. 5"
+    ],
+    "element": "",
+    "type": "",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "P-B",
+    "number": 39,
+    "id": "P-B-039",
+    "name": "Pawmi",
+    "rarity": "R",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/PROMO-B/39.webp",
+    "packs": [],
+    "element": "",
+    "type": "",
+    "isFoil": false
+  },
+  {
+    "series": "B",
+    "set": "P-B",
+    "number": 40,
+    "id": "P-B-040",
+    "name": "Paldean Clodsire",
+    "rarity": "R",
+    "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/PROMO-B/40.webp",
+    "packs": [],
+    "element": "",
+    "type": "",
     "isFoil": false
   }
 ]
