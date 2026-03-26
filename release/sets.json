@@ -184,6 +184,28 @@
         ]
     },
     {
+        "code": "B2A",
+        "name": "Paldean Wonders",
+        "shortName": "PW",
+        "series": "B",
+        "count": 131,
+        "releaseDate": "2026-02-26",
+        "packs": [
+            "Paldean"
+        ]
+    },
+    {
+        "code": "B2B",
+        "name": "Mega Shine",
+        "shortName": "MS",
+        "series": "B",
+        "count": 117,
+        "releaseDate": "2026-03-26",
+        "packs": [
+            "Mega Shine"
+        ]
+    },
+    {
         "code": "P-B",
         "name": "Promo B",
         "shortName": "PB",
