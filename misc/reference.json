@@ -22072,6 +22072,7 @@
     "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_20_001170_00_ELECTRICGENERATOR_UR.webp"
   },
   {
+<<<<<<< HEAD
     "cardDefKey": "PK_10_016070_00",
     "expansionId": "B2b",
     "url": "/cards/b2b/1/scyther/",
@@ -23008,6 +23009,8 @@
     "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_20_001090_00_METARUKOABARIA_UR.webp"
   },
   {
+=======
+>>>>>>> 85e3bf0c60f82953d7a33f2096e5070fbb233014
     "cardDefKey": "TR_90_000010_00",
     "expansionId": "PROMO-A",
     "url": "/cards/promo-a/1/potion/",
@@ -24262,6 +24265,7 @@
     "name": "Paldean Clodsire",
     "description": null,
     "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_90_015740_00_PALDEADOOH_R.webp"
+<<<<<<< HEAD
   },
   {
     "cardDefKey": "PK_90_015460_00",
@@ -24326,5 +24330,7 @@
     "name": "Wigglytuff",
     "description": null,
     "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_90_016060_00_PUKURIN_R.webp"
+=======
+>>>>>>> 85e3bf0c60f82953d7a33f2096e5070fbb233014
   }
 ]

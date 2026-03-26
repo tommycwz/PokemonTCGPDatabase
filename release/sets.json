@@ -195,6 +195,7 @@
         ]
     },
     {
+<<<<<<< HEAD
         "code": "B2B",
         "name": "Mega Shine",
         "shortName": "MS",
@@ -206,6 +207,8 @@
         ]
     },
     {
+=======
+>>>>>>> 85e3bf0c60f82953d7a33f2096e5070fbb233014
         "code": "P-B",
         "name": "Promo B",
         "shortName": "PB",
