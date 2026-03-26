@@ -41678,7 +41678,6 @@
     "isFoil": false
   },
   {
-<<<<<<< HEAD
     "series": "B",
     "set": "B2B",
     "number": 1,
@@ -43434,8 +43433,6 @@
     "isFoil": false
   },
   {
-=======
->>>>>>> 85e3bf0c60f82953d7a33f2096e5070fbb233014
     "series": "A",
     "set": "P-A",
     "number": 1,
@@ -45555,13 +45552,8 @@
     "rarity": "AR",
     "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/PROMO-B/33.webp",
     "packs": [],
-<<<<<<< HEAD
     "element": "water",
     "type": "pokemon",
-=======
-    "element": "",
-    "type": "",
->>>>>>> 85e3bf0c60f82953d7a33f2096e5070fbb233014
     "isFoil": false
   },
   {
@@ -45575,13 +45567,8 @@
     "packs": [
       "B Series Vol. 5"
     ],
-<<<<<<< HEAD
     "element": "grass",
     "type": "pokemon",
-=======
-    "element": "",
-    "type": "",
->>>>>>> 85e3bf0c60f82953d7a33f2096e5070fbb233014
     "isFoil": false
   },
   {
@@ -45595,13 +45582,8 @@
     "packs": [
       "B Series Vol. 5"
     ],
-<<<<<<< HEAD
     "element": "fire",
     "type": "pokemon",
-=======
-    "element": "",
-    "type": "",
->>>>>>> 85e3bf0c60f82953d7a33f2096e5070fbb233014
     "isFoil": false
   },
   {
@@ -45615,13 +45597,8 @@
     "packs": [
       "B Series Vol. 5"
     ],
-<<<<<<< HEAD
     "element": "water",
     "type": "pokemon",
-=======
-    "element": "",
-    "type": "",
->>>>>>> 85e3bf0c60f82953d7a33f2096e5070fbb233014
     "isFoil": false
   },
   {
@@ -45635,13 +45612,8 @@
     "packs": [
       "B Series Vol. 5"
     ],
-<<<<<<< HEAD
     "element": "water",
     "type": "pokemon",
-=======
-    "element": "",
-    "type": "",
->>>>>>> 85e3bf0c60f82953d7a33f2096e5070fbb233014
     "isFoil": false
   },
   {
@@ -45655,13 +45627,8 @@
     "packs": [
       "B Series Vol. 5"
     ],
-<<<<<<< HEAD
     "element": "metal",
     "type": "pokemon",
-=======
-    "element": "",
-    "type": "",
->>>>>>> 85e3bf0c60f82953d7a33f2096e5070fbb233014
     "isFoil": false
   },
   {
@@ -45673,13 +45640,8 @@
     "rarity": "R",
     "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/PROMO-B/39.webp",
     "packs": [],
-<<<<<<< HEAD
     "element": "lightning",
     "type": "pokemon",
-=======
-    "element": "",
-    "type": "",
->>>>>>> 85e3bf0c60f82953d7a33f2096e5070fbb233014
     "isFoil": false
   },
   {
@@ -45691,7 +45653,6 @@
     "rarity": "R",
     "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/PROMO-B/40.webp",
     "packs": [],
-<<<<<<< HEAD
     "element": "darkness",
     "type": "pokemon",
     "isFoil": false
@@ -45806,8 +45767,6 @@
     "rarity": "R",
     "image": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-exchange/refs/heads/main/public/images/cards-by-set/PROMO-B/48.webp",
     "packs": [],
-=======
->>>>>>> 85e3bf0c60f82953d7a33f2096e5070fbb233014
     "element": "",
     "type": "",
     "isFoil": false
