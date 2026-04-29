@@ -206,6 +206,17 @@
         ]
     },
     {
+        "code": "B3",
+        "name": "Pulsing Aura",
+        "shortName": "PA",
+        "series": "B",
+        "count": 257,
+        "releaseDate": "2026-04-28",
+        "packs": [
+            "Pulsing Aura"
+        ]
+    },
+    {
         "code": "P-B",
         "name": "Promo B",
         "shortName": "PB",
