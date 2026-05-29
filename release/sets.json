@@ -217,6 +217,17 @@
         ]
     },
     {
+        "code": "B3A",
+        "name": "Paradox Drive",
+        "shortName": "PD",
+        "series": "B",
+        "count": 257,
+        "releaseDate": "2026-04-28",
+        "packs": [
+            "Paradox Drive"
+        ]
+    },
+    {
         "code": "P-B",
         "name": "Promo B",
         "shortName": "PB",
