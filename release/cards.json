@@ -3229,13 +3229,13 @@
     "set": "A1",
     "number": 216,
     "id": "A1-216",
-    "name": "Helix Fossil",
+    "name": "Helix Fossil- 40 HP",
     "rarity": "C",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_216_EN_SM.webp",
     "packs": [
       "Pikachu"
     ],
-    "element": "40 hp",
+    "element": "",
     "type": "Fossil",
     "isFoil": false
   },
@@ -3244,13 +3244,13 @@
     "set": "A1",
     "number": 217,
     "id": "A1-217",
-    "name": "Dome Fossil",
+    "name": "Dome Fossil- 40 HP",
     "rarity": "C",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_217_EN_SM.webp",
     "packs": [
       "Charizard"
     ],
-    "element": "40 hp",
+    "element": "",
     "type": "Fossil",
     "isFoil": false
   },
@@ -3259,14 +3259,14 @@
     "set": "A1",
     "number": 218,
     "id": "A1-218",
-    "name": "Old Amber",
+    "name": "Old Amber- 40 HP",
     "rarity": "C",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_218_EN_SM.webp",
     "packs": [
       "Mewtwo"
     ],
-    "element": "40 hp",
-    "type": "Fossil",
+    "element": "",
+    "type": "Trainer",
     "isFoil": false
   },
   {
@@ -5224,14 +5224,14 @@
     "set": "A1A",
     "number": 63,
     "id": "A1A-63",
-    "name": "Old Amber",
+    "name": "Old Amber- 40 HP",
     "rarity": "C",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_063_EN_SM.webp",
     "packs": [
       "Mew"
     ],
-    "element": "40 hp",
-    "type": "Fossil",
+    "element": "",
+    "type": "Trainer",
     "isFoil": false
   },
   {
@@ -7504,13 +7504,13 @@
     "set": "A2",
     "number": 129,
     "id": "A2-129",
-    "name": "Porygon",
+    "name": "Porygon-Z",
     "rarity": "R",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_129_EN_SM.webp",
     "packs": [
       "Palkia"
     ],
-    "element": "Z- colorless",
+    "element": "Colorless",
     "type": "Stage 2",
     "isFoil": false
   },
@@ -13654,13 +13654,13 @@
     "set": "A3",
     "number": 125,
     "id": "A3-125",
-    "name": "Jangmo",
+    "name": "Jangmo-o",
     "rarity": "C",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_125_EN_SM.webp",
     "packs": [
       "Lunala"
     ],
-    "element": "O- dragon",
+    "element": "Dragon",
     "type": "pokemon",
     "isFoil": false
   },
@@ -13669,13 +13669,13 @@
     "set": "A3",
     "number": 126,
     "id": "A3-126",
-    "name": "Hakamo",
+    "name": "Hakamo-o",
     "rarity": "U",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_126_EN_SM.webp",
     "packs": [
       "Lunala"
     ],
-    "element": "O- dragon",
+    "element": "Dragon",
     "type": "Stage 1",
     "isFoil": false
   },
@@ -13684,13 +13684,13 @@
     "set": "A3",
     "number": 127,
     "id": "A3-127",
-    "name": "Kommo",
+    "name": "Kommo-o",
     "rarity": "R",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_127_EN_SM.webp",
     "packs": [
       "Lunala"
     ],
-    "element": "O- dragon",
+    "element": "Dragon",
     "type": "Stage 2",
     "isFoil": false
   },
@@ -19024,13 +19024,13 @@
     "set": "A4",
     "number": 34,
     "id": "A4-34",
-    "name": "Ho",
+    "name": "Ho-Oh ex",
     "rarity": "RR",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_034_EN_SM.webp",
     "packs": [
       "Ho-Oh"
     ],
-    "element": "Oh ex- fire",
+    "element": "Fire",
     "type": "pokemon",
     "isFoil": false
   },
@@ -20569,13 +20569,13 @@
     "set": "A4",
     "number": 137,
     "id": "A4-137",
-    "name": "Porygon",
+    "name": "Porygon-Z",
     "rarity": "R",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_137_EN_SM.webp",
     "packs": [
       "Lugia"
     ],
-    "element": "Z- colorless",
+    "element": "Colorless",
     "type": "Stage 2",
     "isFoil": false
   },
@@ -21319,13 +21319,13 @@
     "set": "A4",
     "number": 187,
     "id": "A4-187",
-    "name": "Ho",
+    "name": "Ho-Oh ex",
     "rarity": "SR",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_187_EN_SM.webp",
     "packs": [
       "Ho-Oh"
     ],
-    "element": "Oh ex- fire",
+    "element": "Fire",
     "type": "pokemon",
     "isFoil": false
   },
@@ -21664,13 +21664,13 @@
     "set": "A4",
     "number": 210,
     "id": "A4-210",
-    "name": "Ho",
+    "name": "Ho-Oh ex",
     "rarity": "IM",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_210_EN_SM.webp",
     "packs": [
       "Ho-Oh"
     ],
-    "element": "Oh ex- fire",
+    "element": "Fire",
     "type": "pokemon",
     "isFoil": false
   },
@@ -22114,13 +22114,13 @@
     "set": "A4",
     "number": 240,
     "id": "A4-240",
-    "name": "Ho",
+    "name": "Ho-Oh ex",
     "rarity": "Crown Rare",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_240_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "Oh ex- fire",
+    "element": "Fire",
     "type": "pokemon",
     "isFoil": false
   },
@@ -23742,7 +23742,7 @@
     ],
     "element": "Grass",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -23772,7 +23772,7 @@
     ],
     "element": "Grass",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -23817,7 +23817,7 @@
     ],
     "element": "Grass",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -23847,7 +23847,7 @@
     ],
     "element": "Grass",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -23892,7 +23892,7 @@
     ],
     "element": "Grass",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -23937,7 +23937,7 @@
     ],
     "element": "Grass",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -23967,7 +23967,7 @@
     ],
     "element": "Grass",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -23997,7 +23997,7 @@
     ],
     "element": "Grass",
     "type": "Stage 2",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24027,7 +24027,7 @@
     ],
     "element": "Grass",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24102,7 +24102,7 @@
     ],
     "element": "Grass",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24132,7 +24132,7 @@
     ],
     "element": "Grass",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24177,7 +24177,7 @@
     ],
     "element": "Grass",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24207,7 +24207,7 @@
     ],
     "element": "Grass",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24237,7 +24237,7 @@
     ],
     "element": "Grass",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24267,7 +24267,7 @@
     ],
     "element": "Grass",
     "type": "Stage 2",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24297,7 +24297,7 @@
     ],
     "element": "Grass",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24327,7 +24327,7 @@
     ],
     "element": "Grass",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24402,7 +24402,7 @@
     ],
     "element": "Grass",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24432,7 +24432,7 @@
     ],
     "element": "Grass",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24462,7 +24462,7 @@
     ],
     "element": "Grass",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24492,7 +24492,7 @@
     ],
     "element": "Grass",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24522,7 +24522,7 @@
     ],
     "element": "Grass",
     "type": "Stage 2",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24552,7 +24552,7 @@
     ],
     "element": "Fire",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24582,7 +24582,7 @@
     ],
     "element": "Fire",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24642,7 +24642,7 @@
     ],
     "element": "Fire",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24687,7 +24687,7 @@
     ],
     "element": "Fire",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24724,13 +24724,13 @@
     "set": "A4B",
     "number": 68,
     "id": "A4B-68",
-    "name": "Ho",
+    "name": "Ho-Oh ex",
     "rarity": "RR",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_068_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "Oh ex- fire",
+    "element": "Fire",
     "type": "pokemon",
     "isFoil": false
   },
@@ -24762,7 +24762,7 @@
     ],
     "element": "Fire",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24792,7 +24792,7 @@
     ],
     "element": "Fire",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24822,7 +24822,7 @@
     ],
     "element": "Fire",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24867,7 +24867,7 @@
     ],
     "element": "Fire",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24897,7 +24897,7 @@
     ],
     "element": "Fire",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24927,7 +24927,7 @@
     ],
     "element": "Fire",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -24972,7 +24972,7 @@
     ],
     "element": "Water",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25002,7 +25002,7 @@
     ],
     "element": "Water",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25047,7 +25047,7 @@
     ],
     "element": "Water",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25077,7 +25077,7 @@
     ],
     "element": "Water",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25122,7 +25122,7 @@
     ],
     "element": "Water",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25167,7 +25167,7 @@
     ],
     "element": "Water",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25212,7 +25212,7 @@
     ],
     "element": "Water",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25257,7 +25257,7 @@
     ],
     "element": "Water",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25287,7 +25287,7 @@
     ],
     "element": "Water",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25347,7 +25347,7 @@
     ],
     "element": "Water",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25377,7 +25377,7 @@
     ],
     "element": "Water",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25407,7 +25407,7 @@
     ],
     "element": "Water",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25437,7 +25437,7 @@
     ],
     "element": "Water",
     "type": "Stage 2",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25467,7 +25467,7 @@
     ],
     "element": "Water",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25497,7 +25497,7 @@
     ],
     "element": "Water",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25557,7 +25557,7 @@
     ],
     "element": "Water",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25602,7 +25602,7 @@
     ],
     "element": "Water",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25647,7 +25647,7 @@
     ],
     "element": "Lightning",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25722,7 +25722,7 @@
     ],
     "element": "Lightning",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25752,7 +25752,7 @@
     ],
     "element": "Lightning",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25782,7 +25782,7 @@
     ],
     "element": "Lightning",
     "type": "Stage 2",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25827,7 +25827,7 @@
     ],
     "element": "Lightning",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25872,7 +25872,7 @@
     ],
     "element": "Lightning",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25917,7 +25917,7 @@
     ],
     "element": "Lightning",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25962,7 +25962,7 @@
     ],
     "element": "Lightning",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -25992,7 +25992,7 @@
     ],
     "element": "Psychic",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26022,7 +26022,7 @@
     ],
     "element": "Psychic",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26067,7 +26067,7 @@
     ],
     "element": "Psychic",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26142,7 +26142,7 @@
     ],
     "element": "Psychic",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26187,7 +26187,7 @@
     ],
     "element": "Psychic",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26217,7 +26217,7 @@
     ],
     "element": "Psychic",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26247,7 +26247,7 @@
     ],
     "element": "Psychic",
     "type": "Stage 2",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26277,7 +26277,7 @@
     ],
     "element": "Psychic",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26322,7 +26322,7 @@
     ],
     "element": "Psychic",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26352,7 +26352,7 @@
     ],
     "element": "Psychic",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26397,7 +26397,7 @@
     ],
     "element": "Psychic",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26427,7 +26427,7 @@
     ],
     "element": "Psychic",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26457,7 +26457,7 @@
     ],
     "element": "Psychic",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26502,7 +26502,7 @@
     ],
     "element": "Psychic",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26532,7 +26532,7 @@
     ],
     "element": "Psychic",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26562,7 +26562,7 @@
     ],
     "element": "Fighting",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26592,7 +26592,7 @@
     ],
     "element": "Fighting",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26637,7 +26637,7 @@
     ],
     "element": "Fighting",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26697,7 +26697,7 @@
     ],
     "element": "Fighting",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26727,7 +26727,7 @@
     ],
     "element": "Fighting",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26772,7 +26772,7 @@
     ],
     "element": "Fighting",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26802,7 +26802,7 @@
     ],
     "element": "Fighting",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26832,7 +26832,7 @@
     ],
     "element": "Fighting",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26877,7 +26877,7 @@
     ],
     "element": "Fighting",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26907,7 +26907,7 @@
     ],
     "element": "Fighting",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26967,7 +26967,7 @@
     ],
     "element": "Fighting",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -26997,7 +26997,7 @@
     ],
     "element": "Fighting",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27027,7 +27027,7 @@
     ],
     "element": "Fighting",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27087,7 +27087,7 @@
     ],
     "element": "Fighting",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27117,7 +27117,7 @@
     ],
     "element": "Darkness",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27147,7 +27147,7 @@
     ],
     "element": "Darkness",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27177,7 +27177,7 @@
     ],
     "element": "Darkness",
     "type": "Stage 2",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27222,7 +27222,7 @@
     ],
     "element": "Darkness",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27267,7 +27267,7 @@
     ],
     "element": "Darkness",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27312,7 +27312,7 @@
     ],
     "element": "Darkness",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27357,7 +27357,7 @@
     ],
     "element": "Darkness",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27417,7 +27417,7 @@
     ],
     "element": "Darkness",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27462,7 +27462,7 @@
     ],
     "element": "Metal",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27552,7 +27552,7 @@
     ],
     "element": "Metal",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27582,7 +27582,7 @@
     ],
     "element": "Metal",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27627,7 +27627,7 @@
     ],
     "element": "Metal",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27657,7 +27657,7 @@
     ],
     "element": "Metal",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27687,7 +27687,7 @@
     ],
     "element": "Metal",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27732,7 +27732,7 @@
     ],
     "element": "Dragon",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27762,7 +27762,7 @@
     ],
     "element": "Dragon",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27807,7 +27807,7 @@
     ],
     "element": "Colorless",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27837,7 +27837,7 @@
     ],
     "element": "Colorless",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27882,7 +27882,7 @@
     ],
     "element": "Colorless",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27927,7 +27927,7 @@
     ],
     "element": "Colorless",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -27957,7 +27957,7 @@
     ],
     "element": "Colorless",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28002,7 +28002,7 @@
     ],
     "element": "Colorless",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28077,7 +28077,7 @@
     ],
     "element": "Colorless",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28107,7 +28107,7 @@
     ],
     "element": "Colorless",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28137,7 +28137,7 @@
     ],
     "element": "Colorless",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28182,7 +28182,7 @@
     ],
     "element": "Colorless",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28227,7 +28227,7 @@
     ],
     "element": "Colorless",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28257,7 +28257,7 @@
     ],
     "element": "Colorless",
     "type": "Stage 1",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28287,7 +28287,7 @@
     ],
     "element": "Colorless",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28317,7 +28317,7 @@
     ],
     "element": "Colorless",
     "type": "pokemon",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28347,7 +28347,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28377,21 +28377,21 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
     "set": "A4B",
     "number": 312,
     "id": "A4B-312",
-    "name": "Old Amber",
+    "name": "Old Amber- 40 HP",
     "rarity": "C",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_312_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "40 hp",
-    "type": "Fossil",
+    "element": "",
+    "type": "Trainer",
     "isFoil": false
   },
   {
@@ -28399,15 +28399,15 @@
     "set": "A4B",
     "number": 313,
     "id": "A4B-313",
-    "name": "Old Amber",
+    "name": "Old Amber- 40 HP",
     "rarity": "C",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_313_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "40 hp",
-    "type": "Fossil",
-    "isFoil": false
+    "element": "",
+    "type": "Trainer",
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28437,7 +28437,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28467,7 +28467,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28497,7 +28497,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28527,7 +28527,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28557,7 +28557,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28587,7 +28587,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28617,7 +28617,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28647,7 +28647,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28677,7 +28677,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28707,7 +28707,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28737,7 +28737,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28767,7 +28767,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28797,7 +28797,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28827,7 +28827,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28857,7 +28857,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28887,7 +28887,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28917,7 +28917,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28947,7 +28947,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -28977,7 +28977,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -29007,7 +29007,7 @@
     ],
     "element": "",
     "type": "Trainer",
-    "isFoil": false
+    "isFoil": true
   },
   {
     "series": "A",
@@ -29134,13 +29134,13 @@
     "set": "A4B",
     "number": 362,
     "id": "A4B-362",
-    "name": "Ho",
+    "name": "Ho-Oh ex",
     "rarity": "SR",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_362_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "Oh ex- fire",
+    "element": "Fire",
     "type": "pokemon",
     "isFoil": false
   },
@@ -29869,13 +29869,13 @@
     "set": "B1",
     "number": 32,
     "id": "B1-32",
-    "name": "Ho",
+    "name": "Ho-Oh",
     "rarity": "R",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_032_EN_SM.webp",
     "packs": [
       "Megablaziken"
     ],
-    "element": "Oh- fire",
+    "element": "Fire",
     "type": "pokemon",
     "isFoil": false
   },
@@ -35224,13 +35224,13 @@
     "set": "B1A",
     "number": 58,
     "id": "B1A-58",
-    "name": "Porygon",
+    "name": "Porygon-Z",
     "rarity": "R",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_058_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "Z- colorless",
+    "element": "Colorless",
     "type": "Stage 2",
     "isFoil": false
   },
@@ -35359,14 +35359,14 @@
     "set": "B1A",
     "number": 67,
     "id": "B1A-67",
-    "name": "Quick",
+    "name": "Quick-Grow Extract",
     "rarity": "U",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_067_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "Grow extract",
-    "type": "Item",
+    "element": "",
+    "type": "Trainer",
     "isFoil": false
   },
   {
@@ -35899,14 +35899,14 @@
     "set": "B1A",
     "number": 103,
     "id": "B1A-103",
-    "name": "Quick",
+    "name": "Quick-Grow Extract",
     "rarity": "Crown Rare",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_103_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "Grow extract",
-    "type": "Item",
+    "element": "",
+    "type": "Trainer",
     "isFoil": false
   },
   {
@@ -38059,13 +38059,13 @@
     "set": "B2",
     "number": 144,
     "id": "B2-144",
-    "name": "Jaw Fossil",
+    "name": "Jaw Fossil- 40 HP",
     "rarity": "C",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_144_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "40 hp",
+    "element": "",
     "type": "Fossil",
     "isFoil": false
   },
@@ -38089,13 +38089,13 @@
     "set": "B2",
     "number": 146,
     "id": "B2-146",
-    "name": "Sail Fossil",
+    "name": "Sail Fossil- 40 HP",
     "rarity": "C",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_146_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "40 hp",
+    "element": "",
     "type": "Fossil",
     "isFoil": false
   },
@@ -39289,13 +39289,13 @@
     "set": "B2",
     "number": 226,
     "id": "B2-226",
-    "name": "Ho",
+    "name": "Ho-Oh ex",
     "rarity": "SSR",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_226_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "Oh ex- fire",
+    "element": "Fire",
     "type": "pokemon",
     "isFoil": false
   },
@@ -39634,13 +39634,13 @@
     "set": "B2A",
     "number": 15,
     "id": "B2A-15",
-    "name": "Wo",
+    "name": "Wo-Chien",
     "rarity": "R",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2a/B2a_015_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "Chien- grass",
+    "element": "Grass",
     "type": "pokemon",
     "isFoil": false
   },
@@ -39724,13 +39724,13 @@
     "set": "B2A",
     "number": 21,
     "id": "B2A-21",
-    "name": "Chi",
+    "name": "Chi-Yu",
     "rarity": "R",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2a/B2a_021_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "Yu- fire",
+    "element": "Fire",
     "type": "pokemon",
     "isFoil": false
   },
@@ -39964,13 +39964,13 @@
     "set": "B2A",
     "number": 37,
     "id": "B2A-37",
-    "name": "Chien",
+    "name": "Chien-Pao ex",
     "rarity": "RR",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2a/B2a_037_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "Pao ex- water",
+    "element": "Water",
     "type": "pokemon",
     "isFoil": false
   },
@@ -40339,13 +40339,13 @@
     "set": "B2A",
     "number": 62,
     "id": "B2A-62",
-    "name": "Ting",
+    "name": "Ting-Lu",
     "rarity": "R",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2a/B2a_062_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "Lu- fighting",
+    "element": "Fighting",
     "type": "pokemon",
     "isFoil": false
   },
@@ -40939,13 +40939,13 @@
     "set": "B2A",
     "number": 102,
     "id": "B2A-102",
-    "name": "Chien",
+    "name": "Chien-Pao ex",
     "rarity": "SR",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2a/B2a_102_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "Pao ex- water",
+    "element": "Water",
     "type": "pokemon",
     "isFoil": false
   },
@@ -41089,13 +41089,13 @@
     "set": "B2A",
     "number": 112,
     "id": "B2A-112",
-    "name": "Chien",
+    "name": "Chien-Pao ex",
     "rarity": "SR",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2a/B2a_112_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "Pao ex- water",
+    "element": "Water",
     "type": "pokemon",
     "isFoil": false
   },
@@ -46489,13 +46489,13 @@
     "set": "B3",
     "number": 224,
     "id": "B3-224",
-    "name": "Porygon",
+    "name": "Porygon-Z",
     "rarity": "S",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B3/B3_224_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "Z- colorless",
+    "element": "Colorless",
     "type": "Stage 2",
     "isFoil": false
   },
@@ -50644,13 +50644,13 @@
     "set": "P-B",
     "number": 41,
     "id": "P-B-41",
-    "name": "Chien",
+    "name": "Chien-Pao ex",
     "rarity": "P",
     "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_041_EN_SM.webp",
     "packs": [
       "All"
     ],
-    "element": "Pao ex- water",
+    "element": "Water",
     "type": "pokemon",
     "isFoil": false
   },

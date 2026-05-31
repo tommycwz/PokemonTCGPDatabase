@@ -15,11 +15,47 @@ from bs4 import BeautifulSoup
 BASE_URL = "https://pocket.limitlesstcg.com"
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RELEASE_DIR = os.path.join(BASE_DIR, "release")
+MISC_DIR = os.path.join(BASE_DIR, "misc")
 TEMP_DIR = os.path.join(BASE_DIR, "temp")
 SETS_PATH = os.path.join(RELEASE_DIR, "sets.json")
 EXPORT_CARDS_PATH = os.path.join(RELEASE_DIR, "cards.json")
+FOILED_CARDS_PATH = os.path.join(MISC_DIR, "FoiledCards.txt")
 
 CONCURRENCY_LIMIT = 10
+
+# Element names loaded from element.json (lowercase), used to detect
+# element suffixes glued to the name (e.g. "Ting-Lu- Fighting").
+def _load_elements() -> set:
+    path = os.path.join(RELEASE_DIR, "element.json")
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+        return {e["name"].lower() for e in data.get("elements", [])}
+    except Exception:
+        # Fallback in case the file is missing
+        return {"grass", "fire", "water", "lightning", "psychic",
+                "fighting", "darkness", "metal", "dragon", "colorless"}
+
+ELEMENTS: set = _load_elements()
+
+# Matches an element suffix that may be glued to the name without a leading space,
+# e.g. "Ting-Lu- Fighting" or "Pikachu - Lightning".  Built lazily after ELEMENTS.
+def _build_element_pattern() -> re.Pattern:
+    alts = "|".join(re.escape(e) for e in sorted(ELEMENTS, key=len, reverse=True))
+    return re.compile(r"\s*-\s+(" + alts + r")$", re.IGNORECASE)
+
+_ELEMENT_RE: re.Pattern = _build_element_pattern()
+
+
+def _load_foiled_ids(path: str = FOILED_CARDS_PATH) -> set:
+    """Load foiled card IDs from FoiledCards.txt (one zero-padded ID per line)."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            return {line.strip().upper() for line in f if line.strip()}
+    except FileNotFoundError:
+        return set()
+
+FOILED_IDS: set = _load_foiled_ids()
 
 RARITY_MAP: Dict[str, str] = {
     "◊": "C",
@@ -169,21 +205,29 @@ def extract_card_info(
     image_url = img_elem["src"]
 
     # Name & Element
+    # The title text can be either:
+    #   "Pikachu - Lightning - 70 HP"   (space on both sides of first dash)
+    #   "Ting-Lu- Fighting - 120 HP"    (no leading space; element glued to name)
+    # Use _ELEMENT_RE to detect and strip a glued element suffix, then fall back
+    # to title_parts[1] for the normal case.
     title_elem = soup.select_one("p.card-text-title")
     title = title_elem.get_text(strip=True) if title_elem else ""
     title_parts = title.split(" - ")
-    raw_name = title_parts[0].strip()
+    raw_first = title_parts[0].strip()
 
-    if "-" in raw_name:
-        name_parts = raw_name.split("-", 1)
-        name = name_parts[0].strip()
-        element = name_parts[1].strip().capitalize()
+    m = _ELEMENT_RE.search(raw_first)
+    if m:
+        # Glued element found in raw_first (e.g. "Ting-Lu- Fighting")
+        name = raw_first[: m.start()].strip()
+        energy_string = m.group(1).lower()
     else:
-        name = raw_name
+        # Normal case: name is clean, element is in title_parts[1]
+        name = raw_first
         energy_string = title_parts[1].strip().lower() if len(title_parts) > 1 else "trainer"
-        if energy_string == "40 hp" and ("Fossil" in name or name == "Old Amber"):
-            energy_string = "trainer"
-        element = "" if energy_string == "trainer" else energy_string.capitalize()
+
+    if energy_string == "40 hp" and ("Fossil" in name or name == "Old Amber"):
+        energy_string = "trainer"
+    element = "" if energy_string == "trainer" else energy_string.capitalize()
 
     # Card type / evolution stage
     type_elem = soup.select_one("p.card-text-type")
@@ -234,7 +278,7 @@ def extract_card_info(
         "packs": [pack_name] if pack_name else [],
         "element": element,
         "type": card_type_final,
-        "isFoil": False,
+        "isFoil": f"{set_code}-{str(in_pack_id).zfill(3)}" in FOILED_IDS,
     }
 
 

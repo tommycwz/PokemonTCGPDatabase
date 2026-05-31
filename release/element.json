@@ -1,0 +1,14 @@
+{
+  "elements": [
+    { "code": "G", "name": "Grass" },
+    { "code": "R", "name": "Fire" },
+    { "code": "W", "name": "Water" },
+    { "code": "L", "name": "Lightning" },
+    { "code": "P", "name": "Psychic" },
+    { "code": "F", "name": "Fighting" },
+    { "code": "D", "name": "Darkness" },
+    { "code": "M", "name": "Metal" },
+    { "code": "N", "name": "Dragon" },
+    { "code": "C", "name": "Colorless" }
+  ]
+}
