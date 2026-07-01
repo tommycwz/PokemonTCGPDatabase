@@ -6,16 +6,22 @@
         "series": "A",
         "count": 286,
         "releaseDate": "2024-10-30",
-        "packs": []
+        "packs": [
+            "Charizard",
+            "Mewtwo",
+            "Pikachu"
+        ]
     },
     {
         "code": "A1A",
         "name": "Mythical Island",
         "shortName": "MI",
         "series": "A",
-        "count": 86,
+        "count": 85,
         "releaseDate": "2024-12-17",
-        "packs": []
+        "packs": [
+            "Mew"
+        ]
     },
     {
         "code": "A2",
@@ -24,7 +30,10 @@
         "series": "A",
         "count": 207,
         "releaseDate": "2025-01-29",
-        "packs": []
+        "packs": [
+            "Dialga",
+            "Palkia"
+        ]
     },
     {
         "code": "A2A",
@@ -33,7 +42,9 @@
         "series": "A",
         "count": 96,
         "releaseDate": "2025-02-28",
-        "packs": []
+        "packs": [
+            "Arceus"
+        ]
     },
     {
         "code": "A2B",
@@ -42,7 +53,9 @@
         "series": "A",
         "count": 111,
         "releaseDate": "2025-03-27",
-        "packs": []
+        "packs": [
+            "Shining"
+        ]
     },
     {
         "code": "A3",
@@ -51,7 +64,10 @@
         "series": "A",
         "count": 239,
         "releaseDate": "2025-04-30",
-        "packs": []
+        "packs": [
+            "Lunala",
+            "Solgaleo"
+        ]
     },
     {
         "code": "A3A",
@@ -60,7 +76,9 @@
         "series": "A",
         "count": 103,
         "releaseDate": "2025-05-29",
-        "packs": []
+        "packs": [
+            "Extradimensional"
+        ]
     },
     {
         "code": "A3B",
@@ -69,7 +87,9 @@
         "series": "A",
         "count": 107,
         "releaseDate": "2025-06-26",
-        "packs": []
+        "packs": [
+            "Eevee"
+        ]
     },
     {
         "code": "A4",
@@ -78,7 +98,10 @@
         "series": "A",
         "count": 241,
         "releaseDate": "2025-07-30",
-        "packs": []
+        "packs": [
+            "Ho-Oh",
+            "Lugia"
+        ]
     },
     {
         "code": "A4A",
@@ -87,7 +110,9 @@
         "series": "A",
         "count": 105,
         "releaseDate": "2025-08-28",
-        "packs": []
+        "packs": [
+            "Secluded"
+        ]
     },
     {
         "code": "A4B",
@@ -96,16 +121,32 @@
         "series": "A",
         "count": 379,
         "releaseDate": "2025-09-30",
-        "packs": []
+        "packs": [
+            "Deluxe"
+        ]
     },
     {
         "code": "P-A",
-        "name": "Promo-A",
+        "name": "Promo A",
         "shortName": "PA",
         "series": "A",
         "count": 117,
-        "releaseDate": null,
-        "packs": []
+        "releaseDate": "2024-10-30",
+        "packs": [
+            "Vol. 1",
+            "Vol. 2",
+            "Vol. 3",
+            "Vol. 4",
+            "Vol. 5",
+            "Vol. 6",
+            "Vol. 7",
+            "Vol. 8",
+            "Vol. 9",
+            "Vol. 10",
+            "Vol. 11",
+            "Vol. 12",
+            "Vol. 13"
+        ]
     },
     {
         "code": "B1",
@@ -114,7 +155,11 @@
         "series": "B",
         "count": 331,
         "releaseDate": "2025-10-30",
-        "packs": []
+        "packs": [
+            "Mega Altaria",
+            "Mega Blaziken",
+            "Mega Gyarados"
+        ]
     },
     {
         "code": "B1A",
@@ -123,7 +168,9 @@
         "series": "B",
         "count": 103,
         "releaseDate": "2025-12-17",
-        "packs": []
+        "packs": [
+            "Crimson Blaze"
+        ]
     },
     {
         "code": "B2",
@@ -132,7 +179,9 @@
         "series": "B",
         "count": 234,
         "releaseDate": "2026-01-29",
-        "packs": []
+        "packs": [
+            "Gardevoir"
+        ]
     },
     {
         "code": "B2A",
@@ -141,7 +190,9 @@
         "series": "B",
         "count": 131,
         "releaseDate": "2026-02-26",
-        "packs": []
+        "packs": [
+            "Paldean"
+        ]
     },
     {
         "code": "B2B",
@@ -150,16 +201,20 @@
         "series": "B",
         "count": 117,
         "releaseDate": "2026-03-26",
-        "packs": []
+        "packs": [
+            "Mega Shine"
+        ]
     },
     {
         "code": "B3",
         "name": "Pulsing Aura",
         "shortName": "PA",
         "series": "B",
-        "count": 234,
+        "count": 257,
         "releaseDate": "2026-04-28",
-        "packs": []
+        "packs": [
+            "Pulsing Aura"
+        ]
     },
     {
         "code": "B3A",
@@ -168,15 +223,32 @@
         "series": "B",
         "count": 109,
         "releaseDate": "2026-05-28",
-        "packs": []
+        "packs": [
+            "Paradox Drive"
+        ]
+    },
+    {
+        "code": "B3B",
+        "name": "Everyday Wonders",
+        "shortName": "EW",
+        "series": "B",
+        "count": 106,
+        "releaseDate": "2026-06-30",
+        "packs": [
+            "Everyday Wonders"
+        ]
     },
     {
         "code": "P-B",
-        "name": "Promo-B",
+        "name": "Promo B",
         "shortName": "PB",
         "series": "B",
-        "count": 70,
-        "releaseDate": null,
-        "packs": []
+        "count": 0,
+        "releaseDate": "2025-10-30",
+        "packs": [
+            "B Series Vol. 1",
+            "B Series Vol. 2",
+            "B Series Vol. 3"
+        ]
     }
 ]

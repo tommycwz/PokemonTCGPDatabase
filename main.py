@@ -18,10 +18,14 @@ def run_script(script_rel_path: str) -> int:
 
 def main():
 	scripts = [
-		os.path.join("script-v2", "SetDataScrapper.py"),
-		os.path.join("script-v2", "CardDataScrapper.py"),
-		os.path.join("script-v2", "LimitlessScrapper.py"),
-		os.path.join("script-v2", "SyncGenerator.py"),
+		os.path.join("script-v1", "SetDataScrapper.py"),
+		os.path.join("script-v1", "CardDataScrapper.py"),
+		os.path.join("script-v1", "LimitlessScrapper.py"),
+		os.path.join("script-v1", "SyncGenerator.py"),
+		# os.path.join("script-v2", "SetDataScrapper.py"),
+		# os.path.join("script-v2", "CardDataScrapper.py"),
+		# os.path.join("script-v2", "LimitlessScrapper.py"),
+		# os.path.join("script-v2", "SyncGenerator.py"),
 	]
 
 	for idx, rel in enumerate(scripts, start=1):

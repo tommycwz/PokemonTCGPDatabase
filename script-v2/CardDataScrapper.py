@@ -16,7 +16,6 @@ BASE_URL = "https://pocket.limitlesstcg.com"
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RELEASE_DIR = os.path.join(BASE_DIR, "release")
 MISC_DIR = os.path.join(BASE_DIR, "misc")
-TEMP_DIR = os.path.join(BASE_DIR, "temp")
 SETS_PATH = os.path.join(RELEASE_DIR, "sets.json")
 EXPORT_CARDS_PATH = os.path.join(RELEASE_DIR, "cards.json")
 FOILED_CARDS_PATH = os.path.join(MISC_DIR, "FoiledCards.txt")
@@ -348,7 +347,6 @@ if __name__ == "__main__":
     all_cards = scrape_cards(sets)
     all_cards.sort(key=lambda c: (c["set"], c["number"]))
 
-    os.makedirs(TEMP_DIR, exist_ok=True)
     with open(EXPORT_CARDS_PATH, "w", encoding="utf-8") as f:
         json.dump(all_cards, f, ensure_ascii=False, indent=2)
 

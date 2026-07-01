@@ -25752,6 +25752,854 @@
     "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_018620_00_TODOROKUTSUKI_UR.webp"
   },
   {
+    "cardDefKey": "PK_10_019040_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/1/caterpie/",
+    "name": "Caterpie",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019040_00_CATERPIE_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019050_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/2/metapod/",
+    "name": "Metapod",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019050_00_TRANSEL_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019060_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/3/butterfree/",
+    "name": "Butterfree",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019060_00_BUTTERFREE_R.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019070_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/4/cacnea/",
+    "name": "Cacnea",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019070_00_SABONEA_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019080_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/5/tropius/",
+    "name": "Tropius",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019080_00_TROPIUS_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019090_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/6/petilil/",
+    "name": "Petilil",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019090_00_CHURINE_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019100_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/7/hisuian-lilligant/",
+    "name": "Hisuian Lilligant",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019100_00_HISUIDREDEAR_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019110_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/8/vulpix/",
+    "name": "Vulpix",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019110_00_ROKON_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019120_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/9/ninetales/",
+    "name": "Ninetales",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019120_00_KYUKON_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019010_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/10/growlithe/",
+    "name": "Growlithe",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019010_00_GARDIE_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019030_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/11/psyduck/",
+    "name": "Psyduck",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019030_00_KODUCK_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019130_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/12/goldeen/",
+    "name": "Goldeen",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019130_00_TOSAKINTO_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019140_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/13/seaking/",
+    "name": "Seaking",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019140_00_AZUMAO_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019150_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/14/feebas/",
+    "name": "Feebas",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019150_00_HINBASS_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019160_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/15/milotic-ex/",
+    "name": "Milotic ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019160_00_MILOKAROSSex_RR.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019170_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/16/snorunt/",
+    "name": "Snorunt",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019170_00_YUKIWARASHI_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_018970_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/17/froslass/",
+    "name": "Froslass",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_018970_00_YUKIMENOKO_R.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019180_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/18/luvdisc/",
+    "name": "Luvdisc",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019180_00_LOVECUS_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019190_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/19/piplup/",
+    "name": "Piplup",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019190_00_POCHAMA_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019200_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/20/iron-bundle/",
+    "name": "Iron Bundle",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019200_00_TETSUNOTSUTSUMI_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019210_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/21/pikachu/",
+    "name": "Pikachu",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019210_00_PIKACHU_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_018980_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/22/raichu/",
+    "name": "Raichu",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_018980_00_RAICHU_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019020_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/23/emolga/",
+    "name": "Emolga",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019020_00_EMOLGA_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019220_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/24/dedenne-ex/",
+    "name": "Dedenne ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019220_00_DEDENNEex_RR.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019230_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/25/yamper/",
+    "name": "Yamper",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019230_00_WANPACHI_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019240_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/26/slowpoke/",
+    "name": "Slowpoke",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019240_00_YADON_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019250_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/27/slowbro/",
+    "name": "Slowbro",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019250_00_YADORAN_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019260_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/28/munna/",
+    "name": "Munna",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019260_00_MUNNA_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019270_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/29/musharna/",
+    "name": "Musharna",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019270_00_MUSHARNA_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019280_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/30/sylveon/",
+    "name": "Sylveon",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019280_00_NYMPHIA_R.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019290_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/31/carbink/",
+    "name": "Carbink",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019290_00_MELECIE_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019300_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/32/mega-diancie-ex/",
+    "name": "Mega Diancie ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019300_00_MEGADIANCIEex_RR.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019310_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/33/enamorus/",
+    "name": "Enamorus",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019310_00_LOVETOLOS_R.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019320_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/34/fidough/",
+    "name": "Fidough",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019320_00_PUPIMOCCHI_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019330_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/35/flutter-mane/",
+    "name": "Flutter Mane",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019330_00_HABATAKUKAMI_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019340_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/36/wooper/",
+    "name": "Wooper",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019340_00_UPAH_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019350_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/37/quagsire/",
+    "name": "Quagsire",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019350_00_NUOH_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019360_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/38/rockruff/",
+    "name": "Rockruff",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019360_00_IWANKO_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019370_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/39/sandygast/",
+    "name": "Sandygast",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019370_00_SUNABA_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019380_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/40/palossand/",
+    "name": "Palossand",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019380_00_SIRODETHNA_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019390_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/41/mega-sableye-ex/",
+    "name": "Mega Sableye ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019390_00_MEGAYAMIRAMIex_RR.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019400_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/42/cacturne/",
+    "name": "Cacturne",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019400_00_NOCTUS_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019410_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/43/spiritomb/",
+    "name": "Spiritomb",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019410_00_MIKARUGE_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019420_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/44/scraggy/",
+    "name": "Scraggy",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019420_00_ZURUGGU_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019430_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/45/scrafty/",
+    "name": "Scrafty",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019430_00_ZURUZUKIN_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019440_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/46/mareanie/",
+    "name": "Mareanie",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019440_00_HIDOIDE_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019450_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/47/toxapex/",
+    "name": "Toxapex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019450_00_DOHIDOIDE_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019460_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/48/goomy/",
+    "name": "Goomy",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019460_00_NUMERA_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019470_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/49/hisuian-sliggoo/",
+    "name": "Hisuian Sliggoo",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019470_00_HISUINUMEIL_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019480_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/50/hisuian-goodra/",
+    "name": "Hisuian Goodra",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019480_00_HISUINUMELGON_R.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019490_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/51/jigglypuff/",
+    "name": "Jigglypuff",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019490_00_PURIN_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019500_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/52/wigglytuff/",
+    "name": "Wigglytuff",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019500_00_PUKURIN_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019510_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/53/eevee/",
+    "name": "Eevee",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019510_00_EIEVUI_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019520_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/54/munchlax/",
+    "name": "Munchlax",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019520_00_GONBE_R.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019530_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/55/snorlax/",
+    "name": "Snorlax",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019530_00_KABIGON_R.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019540_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/56/teddiursa/",
+    "name": "Teddiursa",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019540_00_HIMEGUMA_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019550_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/57/ursaring/",
+    "name": "Ursaring",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019550_00_RINGUMA_U.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019560_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/58/ursaluna/",
+    "name": "Ursaluna",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019560_00_GACHIGUMA_R.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019000_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/59/hisuian-zorua/",
+    "name": "Hisuian Zorua",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019000_00_HISUIZORUA_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019570_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/60/hisuian-zoroark-ex/",
+    "name": "Hisuian Zoroark ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019570_00_HISUIZOROARKex_RR.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019580_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/61/furfrou/",
+    "name": "Furfrou",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019580_00_TRIMMIEN_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019590_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/62/skwovet/",
+    "name": "Skwovet",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019590_00_HOSHIGARISU_C.webp"
+  },
+  {
+    "cardDefKey": "PK_10_019600_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/63/greedent/",
+    "name": "Greedent",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_10_019600_00_YOKUBARISU_U.webp"
+  },
+  {
+    "cardDefKey": "TR_10_001430_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/64/small-balloon/",
+    "name": "Small Balloon",
+    "description": "The Retreat Cost of the Basic Pokémon this card is attached to is 1 less.",
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_10_001430_00_CHIISANAFUUSEN_U.webp"
+  },
+  {
+    "cardDefKey": "TR_10_001440_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/65/elegant-cape/",
+    "name": "Elegant Cape",
+    "description": "The Stage 1 Pokémon this card is attached to gets +30 HP.",
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_10_001440_00_YUUGANAMANTO_U.webp"
+  },
+  {
+    "cardDefKey": "TR_10_001450_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/66/elesa/",
+    "name": "Elesa",
+    "description": "Return all Pokémon Tools attached to each Pokémon (both yours and your opponent’s) to their owner’s hand.",
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_10_001450_00_KAMITSURE_U.webp"
+  },
+  {
+    "cardDefKey": "TR_10_001460_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/67/puppy-loving-girl/",
+    "name": "Puppy-Loving Girl",
+    "description": "Look at the top 4 cards of your deck. Put all Pokémon you find there that have the Puppy Pile attack into your hand. Shuffle the other cards back into your deck.",
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_10_001460_00_KOINUDAISUKIGARL_U.webp"
+  },
+  {
+    "cardDefKey": "TR_10_001470_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/68/wallace/",
+    "name": "Wallace",
+    "description": "Choose 1 of your  Pokémon in play with a maximum HP of 50 or less. Put a random  Pokémon from your deck that evolves from that Pokémon onto that Pokémon to evolve it.",
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_10_001470_00_MIKURI_U.webp"
+  },
+  {
+    "cardDefKey": "TR_10_001480_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/69/kids-room/",
+    "name": "Kid’s Room",
+    "description": "Once during each player’s turn, that player may choose a card in their hand and switch it with a random Pokémon Tool card in their deck.",
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_10_001480_00_KODOMOBEYA_U.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019110_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/70/vulpix/",
+    "name": "Vulpix",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019110_00_ROKON_AR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019190_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/71/piplup/",
+    "name": "Piplup",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019190_00_POCHAMA_AR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019210_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/72/pikachu/",
+    "name": "Pikachu",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019210_00_PIKACHU_AR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019280_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/73/sylveon/",
+    "name": "Sylveon",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019280_00_NYMPHIA_AR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019440_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/74/mareanie/",
+    "name": "Mareanie",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019440_00_HIDOIDE_AR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019490_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/75/jigglypuff/",
+    "name": "Jigglypuff",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019490_00_PURIN_AR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019530_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/76/snorlax/",
+    "name": "Snorlax",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019530_00_KABIGON_AR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019600_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/77/greedent/",
+    "name": "Greedent",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019600_00_YOKUBARISU_AR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019160_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/78/milotic-ex/",
+    "name": "Milotic ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019160_00_MILOKAROSSex_SR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019220_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/79/dedenne-ex/",
+    "name": "Dedenne ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019220_00_DEDENNEex_SR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019300_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/80/mega-diancie-ex/",
+    "name": "Mega Diancie ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019300_00_MEGADIANCIEex_SR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019390_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/81/mega-sableye-ex/",
+    "name": "Mega Sableye ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019390_00_MEGAYAMIRAMIex_SR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019570_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/82/hisuian-zoroark-ex/",
+    "name": "Hisuian Zoroark ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019570_00_HISUIZOROARKex_SR.webp"
+  },
+  {
+    "cardDefKey": "TR_20_001450_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/83/elesa/",
+    "name": "Elesa",
+    "description": "Return all Pokémon Tools attached to each Pokémon (both yours and your opponent’s) to their owner’s hand.",
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_20_001450_00_KAMITSURE_SR.webp"
+  },
+  {
+    "cardDefKey": "TR_20_001460_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/84/puppy-loving-girl/",
+    "name": "Puppy-Loving Girl",
+    "description": "Look at the top 4 cards of your deck. Put all Pokémon you find there that have the Puppy Pile attack into your hand. Shuffle the other cards back into your deck.",
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_20_001460_00_KOINUDAISUKIGARL_SR.webp"
+  },
+  {
+    "cardDefKey": "TR_20_001470_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/85/wallace/",
+    "name": "Wallace",
+    "description": "Choose 1 of your  Pokémon in play with a maximum HP of 50 or less. Put a random  Pokémon from your deck that evolves from that Pokémon onto that Pokémon to evolve it.",
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_20_001470_00_MIKURI_SR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019160_01",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/86/milotic-ex/",
+    "name": "Milotic ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019160_01_MILOKAROSSex_SAR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019300_01",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/87/mega-diancie-ex/",
+    "name": "Mega Diancie ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019300_01_MEGADIANCIEex_SAR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019390_01",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/88/mega-sableye-ex/",
+    "name": "Mega Sableye ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019390_01_MEGAYAMIRAMIex_SAR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019570_01",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/89/hisuian-zoroark-ex/",
+    "name": "Hisuian Zoroark ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019570_01_HISUIZOROARKex_SAR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019220_01",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/90/dedenne-ex/",
+    "name": "Dedenne ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019220_01_DEDENNEex_IM.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019040_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/91/caterpie/",
+    "name": "Caterpie",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019040_00_CATERPIE_S.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019050_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/92/metapod/",
+    "name": "Metapod",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019050_00_TRANSEL_S.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019060_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/93/butterfree/",
+    "name": "Butterfree",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019060_00_BUTTERFREE_S.webp"
+  },
+  {
+    "cardDefKey": "PK_20_011640_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/94/mareep/",
+    "name": "Mareep",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_011640_00_MERRIEP_S.webp"
+  },
+  {
+    "cardDefKey": "PK_20_011650_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/95/flaaffy/",
+    "name": "Flaaffy",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_011650_00_MOKOKO_S.webp"
+  },
+  {
+    "cardDefKey": "PK_20_011660_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/96/ampharos/",
+    "name": "Ampharos",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_011660_00_DENRYU_S.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019250_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/97/slowbro/",
+    "name": "Slowbro",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019250_00_YADORAN_S.webp"
+  },
+  {
+    "cardDefKey": "PK_20_014920_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/98/kangaskhan/",
+    "name": "Kangaskhan",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_014920_00_GARURA_S.webp"
+  },
+  {
+    "cardDefKey": "PK_20_013060_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/99/ditto/",
+    "name": "Ditto",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_013060_00_METAMON_S.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019530_01",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/100/snorlax/",
+    "name": "Snorlax",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019530_01_KABIGON_S.webp"
+  },
+  {
+    "cardDefKey": "PK_20_011340_02",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/101/mega-gyarados-ex/",
+    "name": "Mega Gyarados ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_011340_02_MEGAGYARADOSex_SSR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_017020_02",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/102/vaporeon-ex/",
+    "name": "Vaporeon ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_017020_02_SHOWERSex_SSR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_011670_02",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/103/mega-ampharos-ex/",
+    "name": "Mega Ampharos ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_011670_02_MEGADENRYUex_SSR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_012030_02",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/104/indeedee-ex/",
+    "name": "Indeedee ex",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_012030_02_YESSANex_SSR.webp"
+  },
+  {
+    "cardDefKey": "PK_20_019520_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/105/munchlax/",
+    "name": "Munchlax",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_20_019520_00_GONBE_UR.webp"
+  },
+  {
+    "cardDefKey": "TR_20_001430_00",
+    "expansionId": "B3b",
+    "url": "/cards/b3b/106/small-balloon/",
+    "name": "Small Balloon",
+    "description": "The Retreat Cost of the Basic Pokémon this card is attached to is 1 less.",
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cTR_20_001430_00_CHIISANAFUUSEN_UR.webp"
+  },
+  {
     "cardDefKey": "TR_90_000010_00",
     "expansionId": "PROMO-A",
     "url": "/cards/promo-a/1/potion/",
@@ -27246,5 +28094,69 @@
     "name": "Sableye",
     "description": null,
     "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_90_018550_00_YAMIRAMI_R.webp"
+  },
+  {
+    "cardDefKey": "PK_90_019030_00",
+    "expansionId": "PROMO-B",
+    "url": "/cards/promo-b/71/psyduck/",
+    "name": "Psyduck",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_90_019030_00_KODUCK_AR.webp"
+  },
+  {
+    "cardDefKey": "PK_90_018960_00",
+    "expansionId": "PROMO-B",
+    "url": "/cards/promo-b/72/feebas/",
+    "name": "Feebas",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_90_018960_00_HINBASS_C.webp"
+  },
+  {
+    "cardDefKey": "PK_90_018970_00",
+    "expansionId": "PROMO-B",
+    "url": "/cards/promo-b/73/froslass/",
+    "name": "Froslass",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_90_018970_00_YUKIMENOKO_R.webp"
+  },
+  {
+    "cardDefKey": "PK_90_018980_00",
+    "expansionId": "PROMO-B",
+    "url": "/cards/promo-b/74/raichu/",
+    "name": "Raichu",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_90_018980_00_RAICHU_U.webp"
+  },
+  {
+    "cardDefKey": "PK_90_018990_00",
+    "expansionId": "PROMO-B",
+    "url": "/cards/promo-b/75/quagsire/",
+    "name": "Quagsire",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_90_018990_00_NUOH_C.webp"
+  },
+  {
+    "cardDefKey": "PK_90_019000_00",
+    "expansionId": "PROMO-B",
+    "url": "/cards/promo-b/76/hisuian-zorua/",
+    "name": "Hisuian Zorua",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_90_019000_00_HISUIZORUA_AR.webp"
+  },
+  {
+    "cardDefKey": "PK_90_019010_00",
+    "expansionId": "PROMO-B",
+    "url": "/cards/promo-b/77/growlithe/",
+    "name": "Growlithe",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_90_019010_00_GARDIE_R.webp"
+  },
+  {
+    "cardDefKey": "PK_90_019020_00",
+    "expansionId": "PROMO-B",
+    "url": "/cards/promo-b/78/emolga/",
+    "name": "Emolga",
+    "description": null,
+    "displayImageUrl": "https://assets.pokemon-zone.com/game-assets/CardPreviews/cPK_90_019020_00_EMOLGA_R.webp"
   }
 ]
